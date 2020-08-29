@@ -1,0 +1,31 @@
+ body {
+     text-align: center;
+     ;
+     font-style: italic;
+     color: rgba(158, 137, 19, 0.959);
+     background-color: rgb(27, 9, 9);
+ }
+ 
+ .meu-texto {
+     font-size: 22px;
+ }
+ 
+ img {
+     width: 60%;
+     height: 40%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ .texto-2 {
+     font-size: 20px;
+ }
+ 
+ .titulo {
+     font-size: 30px;
+ }
+ 
+ .tituloP {
+     font-size: 40px;
+ }
